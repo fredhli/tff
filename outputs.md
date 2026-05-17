@@ -867,3 +867,27 @@
 
 ### `df3`: Big Shareholders: 100.00%
 
+
+## 8473.T
+**JP3436120004**
+
+**SBI Holdings Inc.**
+
+### `df1`: Total Shares: 661,122,614
+
+661,122,614 - 31.03.2026 - https://www2.jpx.co.jp/disc/84730/140120260430515452.pdf  
+
+### `df2`: Treasury Shares: 14,760,216 (2.23%)
+
+14,760,216 - 31.03.2026 - https://www2.jpx.co.jp/disc/84730/140120260430515452.pdf  
+
+### `df3`: Big Shareholders: 83.66%
+
+#### Sumitomo Mitsui Financial Group, Inc.
+
+54,000,000 - 30.09.2025 - https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100X4L0,,
+
+#### NTT Corporation
+
+54,000,000 - 30.09.2025 - https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100X4L0,,
+
