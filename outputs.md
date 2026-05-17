@@ -911,3 +911,20 @@
 
 ### `df3`: Big Shareholders: 91.31%
 
+
+## 8952.T
+**JP3027680002**
+
+**Japan Real Estate Investment C**
+
+### `df1`: Total Shares: 7,275,520
+
+7,114,320 - 31.03.2026 - https://www2.jpx.co.jp/disc/89520/140120260515537144.pdf  
+161,200 - 25.03.2026 - https://www2.jpx.co.jp/disc/89520/140120260319585281.pdf  
+
+### `df2`: Treasury Shares: 0 (0.00%)
+
+0 - 31.03.2026 - https://www2.jpx.co.jp/disc/89520/140120260515537144.pdf  
+
+### `df3`: Big Shareholders: 100.00%
+
