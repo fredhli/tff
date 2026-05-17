@@ -891,3 +891,23 @@
 
 54,000,000 - 30.09.2025 - https://disclosure2.edinet-fsa.go.jp/WZEK0040.aspx?S100X4L0,,
 
+
+## 6457.T
+**JP3274400005**
+
+**Glory Ltd.**
+
+### `df1`: Total Shares: 58,938,210
+
+58,938,210 - 31.12.2025 - https://www2.jpx.co.jp/disc/64570/140120260205548574.pdf  
+
+### `df2`: Treasury Shares: 5,122,384 (8.69%)
+
+3,926,584 - 31.12.2025 - https://www2.jpx.co.jp/disc/64570/140120260205548574.pdf  
+250,200 - 01.01.2026 to 31.01.2026 - https://www2.jpx.co.jp/disc/64570/140120260202544802.pdf  
+345,400 - 01.02.2026 to 28.02.2026 - https://www2.jpx.co.jp/disc/64570/140120260302573614.pdf  
+295,600 - 01.03.2026 to 31.03.2026 - https://www2.jpx.co.jp/disc/64570/140120260401595701.pdf  
+304,600 - 01.04.2026 to 30.04.2026 - https://www2.jpx.co.jp/disc/64570/140120260401595669.pdf  
+
+### `df3`: Big Shareholders: 91.31%
+
